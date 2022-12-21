@@ -1,4 +1,4 @@
-The four datasets in this paper can be downloaded from：
+The four datasets used in this paper can be downloaded from：
 
 COVID-19: 
 https://github.com/parthpatwa/covid19-fake-news-dectection
