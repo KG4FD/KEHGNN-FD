@@ -7,7 +7,7 @@
 
 <h1> Knowledge Graph Enhanced Heterogeneous Graph Neural Network for Fake News Detection </h1>
 
-Open-sourced implementation for Web Conference 2023 Submission - KEHGNN-FD.
+Open-sourced implementation for Knowledge Enhanced Heterogeneous Graph Neural Network for Fake News Detection - KEHGNN-FD.
 
 <h2> Python Dependencies </h2>
 
